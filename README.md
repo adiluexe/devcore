@@ -10,6 +10,12 @@ This repository contains a curated list of web development resources that I’ve
 - [Google Material Icons](https://fonts.google.com/icons) - A collection of high-quality, scalable icons by Google.
 - [Feather Icons](https://feathericons.com/) - Simple, clean, and customizable icons for your projects.
 
+## { Colors }
+- [Realtime Colors](https://www.realtimecolors.com)  An interactive tool for generating color palettes in real time.
+
+## { Fonts }
+- [Google Fonts](https://fonts.google.com) A vast library of free and open-source fonts to use in web projects.
+
 ## { Courses }
 - [The Odin Project](https://www.theodinproject.com/) - A free, open-source curriculum for learning web development.
 - [freeCodeCamp](https://www.freecodecamp.org/) - A popular platform offering free coding lessons and projects.
