@@ -25,6 +25,10 @@ This repository contains a curated list of web development resources that I’ve
 
 - [Google Fonts](https://fonts.google.com) A vast library of free and open-source fonts to use in web projects.
 
+## { Blogs }
+
+- [Josh W. Comeau](https://www.joshwcomeau.com/) - A blog that covers web development topics, including CSS, JavaScript, and accessibility.
+
 ## { Courses }
 
 - [The Odin Project](https://www.theodinproject.com/) - A free, open-source curriculum for learning web development.
