@@ -10,6 +10,8 @@ This repository contains a curated list of web development resources that I’ve
 
 ## { Design }
 
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Aceternity UI](https://ui.aceternity.com/)
 - [MagicPattern](https://www.magicpattern.design/) - A collection of tools for creating unique graphics, patterns, and backgrounds for your projects.
 
 ## { Icons }
