@@ -7,6 +7,7 @@ This repository contains a curated list of web development resources that I’ve
 - [HTML Elements Reference](https://htmlcheatsheet.com/css/) - A quick reference for various HTML elements.
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/) - A comprehensive CSS cheat sheet for quick lookup.
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - Speed up your HTML and CSS workflow with this Emmet reference.
+- [CSS Tricks](https://css-tricks.com/)
 
 ## { Design }
 
