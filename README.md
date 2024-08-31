@@ -24,6 +24,9 @@ This repository contains a curated list of web development resources that I’ve
 ## { Fonts }
 
 - [Google Fonts](https://fonts.google.com) A vast library of free and open-source fonts to use in web projects.
+- [Modern Font Stacks](https://modernfontstacks.com/#font-stacks)
+- [Bunny Fonts](https://fonts.bunny.net/)
+- [Font Library](https://fontlibrary.org/en)
 
 ## { Blogs }
 
