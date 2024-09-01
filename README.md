@@ -43,3 +43,4 @@ This repository contains a curated list of web development resources that I’ve
 - [CS50](https://cs50.harvard.edu/) - Harvard University's free introductory course to computer science.
 - [MDN Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) - Mozilla's extensive learning resource for web development.
 - [web.dev](https://web.dev/learn/) - Google's platform for learning modern web development practices and performance optimization.
+- [Interneting Is Hard](https://internetingishard.netlify.app) - Friendly web development tutorials for complete beginners)
